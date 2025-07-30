@@ -29,9 +29,9 @@ git clone https://github.com/Deepakraj004/Weather-Application.git
 # Navigate into the folder
 cd Weather-Application
 
-# Open index.html in your browser
+Open index.html in your browser
 
-🌐 API Integration
+## 🌐 API Integration
 This app uses the OpenWeatherMap API.
 
 To run it with your own API key:
@@ -40,11 +40,11 @@ Create a free account at https://openweathermap.org/api
 Replace the placeholder YOUR_API_KEY in the code with your actual API key.
 const apiKey = "YOUR_API_KEY"; // Replace this
 
-✨ Screenshots
-Weather for current location 
+## ✨ Screenshots
+# Weather for current location 
 <img width="1905" height="864" alt="image" src="https://github.com/user-attachments/assets/26be8720-a9a9-476d-955d-641ffddc8342" />
 
-Weather for custom location
+# Weather for custom location
 <img width="1897" height="856" alt="image" src="https://github.com/user-attachments/assets/5e1bcaae-c2f1-4194-8eda-2ea719bd8449" />
 
 Made with ❤️ by Deepakraj
