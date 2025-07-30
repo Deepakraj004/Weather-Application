@@ -40,7 +40,7 @@ Create a free account at https://openweathermap.org/api
 Replace the placeholder YOUR_API_KEY in the code with your actual API key.
 const apiKey = "YOUR_API_KEY"; // Replace this
 
-## ✨ Screenshots
+# ✨ Screenshots
 # Weather for current location 
 <img width="1905" height="864" alt="image" src="https://github.com/user-attachments/assets/26be8720-a9a9-476d-955d-641ffddc8342" />
 
